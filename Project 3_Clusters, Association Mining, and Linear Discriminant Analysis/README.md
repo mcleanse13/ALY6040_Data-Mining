@@ -1,4 +1,4 @@
-Project Summary — Netflix Content Association Analysis: Uncovering Viewer Behavior Patterns with Apriori and Eclat
+Project Summary - Netflix Content Association Analysis: Uncovering Viewer Behavior Patterns with Apriori and Eclat
 
 This project applies association mining techniques to a Netflix dataset to uncover meaningful patterns in viewer behavior and the relationships between different types of content on the platform. Using R and libraries such as arules and arulesViz, the dataset was transformed into a transaction structure suitable for rule mining. Through the Apriori and Eclat algorithms, frequent itemsets, high-confidence rules, and key variables such as movie/TV distinctions, ratings, release years, and country of origin were analyzed. The project places emphasis on understanding how data is manipulated step-by-step, interpreting support, confidence, and lift measures, and evaluating visualizations that illustrate the most influential associations.
 
