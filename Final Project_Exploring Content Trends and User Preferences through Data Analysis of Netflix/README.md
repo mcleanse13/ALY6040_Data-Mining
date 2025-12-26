@@ -1,4 +1,4 @@
-Analyzing Netflix Content Trends and User Preferences with EDA, Clustering, and Association Mining
+Final Project: Analyzing Netflix Content Trends and User Preferences with EDA, Clustering, and Association Mining
 
 This project explores content trends, user preferences, and strategic insights using a publicly available Netflix dataset sourced from Kaggle. The dataset contains 8,807 records and 12 variables, including title type, genre, director, cast, release year, rating, and runtime. The objective of this project is to identify actionable insights that support content strategy, user retention, recommendation system improvement, and forecasting of high-value content. Using data mining techniques, our team aimed to understand how patterns in Netflix’s catalog reflect viewer behaviors, market trends, and opportunities for strategic growth.
 
